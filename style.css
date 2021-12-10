@@ -1,0 +1,471 @@
+.heading {
+    position: absolute;
+    width: 858px;
+    height: 162px;
+    left: 291px;
+    top: 186px;
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 100%;
+    /* or 54px */
+    
+    text-align: center;
+}
+.p1 {
+    position: absolute;
+width: 626px;
+height: 68px;
+left: 407px;
+top: 380px;
+
+font-family: SF Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.image2 {
+    position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 500px;
+}
+.mica {
+    position: absolute;
+width: 56px;
+height: 56px;
+left: 400px;
+top: 1456px;
+
+}
+h4 {
+    position: absolute;
+width: 191px;
+height: 46px;
+left: 472px;
+top: 1461px;
+}
+.name {
+    top:1440px ; 
+}
+.Group4 {
+    position: absolute;
+width: 140px;
+height: 44px;
+left: 900px;
+top: 1462px;
+}
+.lorem {
+    position: absolute;
+width: 640px;
+height: 238px;
+left: 400px;
+top: 1565px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+h2 {
+    position: absolute;
+width: 288px;
+height: 51px;
+left: 400px;
+top: 1860px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 160%;
+/* or 51px */
+
+
+color: #000000;
+}
+.aptent {
+    position: absolute;
+width: 640px;
+height: 228px;
+left: 400px;
+top: 1935px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.rectangle8 {
+    position: absolute;
+width: 854px;
+height: 570px;
+left: 293px;
+top: 2215px;
+}
+.p1 {
+    position: absolute;
+width: 481px;
+height: 44px;
+left: 479px;
+top: 2797px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.p2 {
+    position: absolute;
+width: 640px;
+height: 272px;
+left: 400px;
+top: 2893px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+h5 {
+    position: absolute;
+width: 640px;
+height: 34px;
+left: 420px;
+top: 3217px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* identical to box height, or 34px */
+
+
+color: #000000;
+
+}
+.list {
+    position: absolute;
+width: 588px;
+height: 168px;
+left: 400px;
+top: 3270px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.img38 {
+    position: absolute;
+width: 184px;
+height: 26px;
+left: 470px;
+top: 3774px;
+
+}
+.img37 {
+    position: absolute;
+width: 165px;
+height: 26px;
+left: 800px;
+top: 3774px;
+}
+.p3 {
+    position: absolute;
+width: 640px;
+height: 68px;
+left: 400px;
+top: 3490px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.p4 {
+    position: absolute;
+width: 640px;
+height: 68px;
+left: 400px;
+top: 3610px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.img {
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 400px;
+top: 3940px;
+
+}
+.p5 {
+    position: absolute;
+width: 543px;
+height: 78px;
+left: 494px;
+top: 3936px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #0C0C0C;
+
+}
+.heading2 {
+    position: absolute;
+width: 376px;
+height: 53px;
+left: 532px;
+top: 4200px;
+
+font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.img2 {
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4299px;
+
+background: url(.png);
+}
+.p6 {
+    position: absolute;
+width: 288px;
+height: 78px;
+left: 229px;
+top: 4495px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+}
+.img3 {
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 553px;
+top: 4299px;
+
+
+}
+.p7 {
+    position: absolute;
+width: 262px;
+height: 52px;
+left: 574px;
+top: 4495px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+}
+.img4 {
+    /* Rectangle 10 */
+
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4299px;
+
+background: url(.png);
+}
+.p8 {
+    position: absolute;
+width: 262px;
+height: 78px;
+left: 906px;
+top: 4495px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+}
+.img5 {
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4607px;
+
+background: url(.png);
+}
+.p9 {
+    position: absolute;
+width: 262px;
+height: 78px;
+left: 242px;
+top: 4803px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.img6 {
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 553px;
+    top: 4607px;
+    
+    background: url(.png);
+}
+.p10 {
+    position: absolute;
+    width: 282px;
+    height: 104px;
+    left: 564px;
+    top: 4803px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.img7 {
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 885px;
+    top: 4607px;
+    
+    background: url(.png);
+}
+.p11 {
+    position: absolute;
+    width: 270px;
+    height: 104px;
+    left: 902px;
+    top: 4803px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+table {
+    position: absolute;
+width: 640px;
+height: 313px;
+left: 400px;
+top: 5021px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
