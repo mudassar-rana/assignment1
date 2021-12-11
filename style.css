@@ -13,8 +13,11 @@
     
     text-align: center;
 }
-.p1 {
-    position: absolute;
+.Ghost {
+ /* Why Ghost (& Figma) instead of Medium, WordPress or other options? */
+
+
+position: absolute;
 width: 626px;
 height: 68px;
 left: 407px;
@@ -30,6 +33,7 @@ line-height: 170%;
 text-align: center;
 
 color: #000000;
+
 
 }
 .image2 {
@@ -273,6 +277,16 @@ text-transform: uppercase;
 color: #0C0C0C;
 
 }
+.img1 {
+    /* Mask Group */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 400px;
+top: 3940px;
+}
 .heading2 {
     position: absolute;
 width: 376px;
@@ -458,14 +472,88 @@ color: #000000;
     color: #000000;
     
 }
-table {
+.table {
     position: absolute;
 width: 640px;
 height: 313px;
 left: 400px;
-top: 5021px;
-
-background: #FFFFFF;
-border: 1px solid #000000;
+top: 5021p
+border: 5px solid #000000;
 box-sizing: border-box;
+}
+.sign {
+    
+position: absolute;
+width: 444px;
+height: 28px;
+left: 498px;
+top: 5083px;
+
+font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 28px;
+/* identical to box height, or 78% */
+
+text-align: center;
+
+color: #090909;
+}
+.p12 {
+    position: absolute;
+width: 538px;
+height: 56px;
+left: 451px;
+top: 5129px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+text-align: center;
+
+color: #090909;
+}
+.input {
+    
+position: absolute;
+width: 520px;
+height: 54px;
+left: 560px;
+top: 5221px;
+
+}
+footer {
+    /* Group 49 */
+
+
+position: absolute;
+width: 1451px;
+height: 464px;
+left: -4px;
+top: 5445px;
+}
+hr {
+    position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 4146px;
+
+border: 2px solid #000000;
+}
+.group10 {
+    /* Group 10 */
+
+
+position: absolute;
+width: 82px;
+height: 64.29px;
+left: 679px;
+top: 4114px;
+
 }
